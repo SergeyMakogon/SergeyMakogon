@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Sergey
 
-<div id="header" align="left">
-  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
-</div>
-
 ## I'm Data / BI analyst
+
+<div id="header" align="left">
+  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="170"/>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sergey-m-03bb28251/">
