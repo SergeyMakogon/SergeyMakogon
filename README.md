@@ -17,7 +17,7 @@
 </div>
 
 
-## 🔭 I’m currently looking for a new job as Data Analyst or BI Analyst
+### 🔭 I’m currently looking for a new job as Data Analyst or BI Analyst
 
 ### 🌱 I’m constantly learning something intresting and now it's Data Science
 
