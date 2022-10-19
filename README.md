@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sergey
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.tenor.com/bZhU_xsvon8AAAAM/scaler-create-impact.gif" width="100"/>
 </div>
 
