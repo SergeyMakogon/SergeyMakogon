@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Sergey
 
-<!--
-**SergeyMakogon/SergeyMakogon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.tenor.com/bZhU_xsvon8AAAAM/scaler-create-impact.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+## I'm Data / BI analyst
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
