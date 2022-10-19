@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sergey
 
-### I'm Data / BI analyst
+## I'm Data / BI analyst
 
 <div id="header" align="left">
   <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
@@ -17,7 +17,9 @@
 </div>
 
 
+
 🔭 I’m currently looking for a new job as Data Analyst or BI Analyst
+
 🌱 I’m constantly learning something intresting and now it's Data Science
 
 
