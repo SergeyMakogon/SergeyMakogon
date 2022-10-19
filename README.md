@@ -3,7 +3,7 @@
 ### I'm Data / BI analyst
 
 <div id="header" align="left">
-  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="170"/>
+  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 </div>
 
 
@@ -16,9 +16,10 @@
   </a>
 </div>
 
-- 🔭 I’m currently looking for a new job as Data Analyst or BI Analyst
-- 🌱 I’m constantly learning something intresting and now it's Data Science
-- :mountain_snow: I like hiking
+
+🔭 I’m currently looking for a new job as Data Analyst or BI Analyst
+🌱 I’m constantly learning something intresting and now it's Data Science
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
