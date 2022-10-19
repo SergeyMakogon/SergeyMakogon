@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sergey
 
 <div id="header" align="left">
-  <img src="https://media.tenor.com/bZhU_xsvon8AAAAM/scaler-create-impact.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
 </div>
 
 ## I'm Data / BI analyst
